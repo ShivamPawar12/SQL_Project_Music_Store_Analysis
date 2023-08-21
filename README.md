@@ -10,4 +10,4 @@ PgAdmin4
 
 Schema- Music Store Database
 
-![image](https://github.com/ShivamPawar12/SQL_Project_Music_Store_Analysis/assets/115694439/01047f85-b465-401e-adb3-d9e330e5b22d)
+![image](https://github.com/ShivamPawar12/SQL_Project_Music_Store_Analysis/assets/115694439/3b80cf0d-98ca-4856-9a70-f8b27671fa51)
